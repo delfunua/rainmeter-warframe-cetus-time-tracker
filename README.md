@@ -3,7 +3,7 @@ Warframe Cetus Time Tracker skin for [Rainmeter](http://rainmeter.net/). Display
 
 # Getting started
 - Install [Rainmeter](http://rainmeter.net/) if it is not istalled yet;
-- Download [skin](https://github.com/delfunua/rainmeter-warframe-cetus-time-tracker/raw/master/Warframe%20Cetus%20Time%20Tracker_1.0.1.rmskin);
+- Download [skin](https://github.com/delfunua/rainmeter-warframe-cetus-time-tracker/raw/master/Warframe%20Cetus%20Time%20Tracker_1.0.4.rmskin);
 - Double click on skin you just downloaded;
 - Now your skin is ready to go :)
 
