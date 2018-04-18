@@ -9,3 +9,7 @@ Warframe Cetus Time Tracker skin for [Rainmeter](http://rainmeter.net/). Display
 
 # Notes
 If you found any bug, please submit it [here](https://github.com/delfunua/rainmeter-warframe-cetus-time-tracker/issues).
+
+# Patch notes 1.0.5
+- fixed timezone issues;
+- added russian localization.
