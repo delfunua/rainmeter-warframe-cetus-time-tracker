@@ -1,0 +1,1 @@
+If you want to change the time format into 12-hour format, open *.ini file and look for a line [Variables]. Then find 2 lines under that section that contains TimeF. Just put a ; symbol at start of 1st line and remove that symbol at start of 2nd.
